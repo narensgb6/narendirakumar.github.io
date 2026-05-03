@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-👉 https://narensgb6.github.io/
+👉 https://narensgb6/github.io/
 
 ---
 
